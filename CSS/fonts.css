@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('fonts6/Segoe UI.eot');
+  src: url('fonts6/Segoe UI.eot?#iefix') format('embedded-opentype'),
+       url('fonts6/Segoe UI.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SegoeUI';
+  src: url('fonts6/SegoeUI.svg#SegoeUI') format('svg'),
+       url('fonts6/SegoeUI.ttf') format('truetype'),
+       url('fonts6/SegoeUI.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('fonts6/Myriad Pro Regular.eot');
+  src: url('fonts6/Myriad Pro Regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts6/Myriad Pro Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('fonts6/MyriadPro-Regular.svg#MyriadPro-Regular') format('svg'),
+       url('fonts6/MyriadPro-Regular.ttf') format('truetype'),
+       url('fonts6/MyriadPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
